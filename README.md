@@ -66,7 +66,7 @@ Create an application that will change color of the screen, based on selected op
 
 Learning Outcome: In above application we can create a functionality of  to create menu and using that options go to the next page for that we create one option_menu.xml and add menu items in it and then in MainActivity.java we can create onCreateOptionMenu() for to create menu and onSelectOptionMenu() for to select option and according that it will perform the task.
 
-[practical 6](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR7_17IT009.rar)
+[practical 7](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR7_17IT009.rar)
   [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR7.1.JPG)
 
 
