@@ -77,7 +77,7 @@ Create an application with the help of fragment.
 
 In above application we can create a functionality of fragments in which we can create two fragment one fragment contain buttons and second can affect according to button clicks for that we can use fragment tag and create different .xml and .java files for the fragments.
 
-[practical 7](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR8_17IT009.rar)
+[practical 8](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR8_17IT009.rar)
   [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR8.1.JPG)
 
 
