@@ -75,10 +75,17 @@ Learning Outcome: In above application we can create a functionality of  to crea
 
 Create an application with the help of fragment.
 
-In above application we can create a functionality of fragments in which we can create two fragment one fragment contain buttons and second can affect according to button clicks for that we can use fragment tag and create different .xml and .java files for the fragments.
+Learning Outcome: In above application we can create a functionality of fragments in which we can create two fragment one fragment contain buttons and second can affect according to button clicks for that we can use fragment tag and create different .xml and .java files for the fragments.
 
 [practical 8](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR8_17IT009.rar)
   [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR8.1.JPG)
 
+## Practical 9
 
+Create an application with the help of web view.
+
+Learning Outcome: In above application we can create a functionality of Web view in which we can create WebView functionality of android for that we use <WebView> tag in activity_main.xml file and then import WebView class and create object of this class and give reference of WebView and pass url of website into loadUrl() function. This will fetch the website from internet and display it in application.
+
+[practical 9](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR9_17IT009.rar)
+  [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR9.JPG)
 
