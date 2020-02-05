@@ -89,3 +89,58 @@ Learning Outcome: In above application we can create a functionality of Web view
 [practical 9](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR9_17IT009.rar)
   [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR9.JPG)
 
+## Practical 10
+
+Create an application with the help of database.
+
+Here, In this as a database we use google sheet for that we devloped one API. Which is devloped in google Script which code is:
+
+```var ss = SpreadsheetApp.openByUrl("Add your google database sheet URL");
+
+var sheet = ss.getSheetByName('Enteries'); match 
+function doPost(e){
+var entry = e.parameter.action;
+
+if(entry == 'addEntry'){
+  return addEntry(e);
+
+}
+}
+
+function doGet(e){
+
+  var records={};
+  var rows = sheet.getRange(2, 1, sheet.getLastRow() - 1,sheet.getLastColumn()).getValues();
+      data = [];
+  for (var r = 0, l = rows.length; r < l; r++) {
+
+    var row     = rows[r],
+        record  = {};
+    record['entryName'] = row[1];
+    record['phone']=row[2];
+
+    data.push(record);
+    
+   }
+  records.entry = data;
+  var result=JSON.stringify(records);
+  return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.JSON);
+
+}
+
+function addEntry(e){
+
+var date = new Date();
+var entry  =  "Entry "+sheet.getLastRow(); // Entry 1
+var entryName = e.parameter.entryName;
+var phone = e.parameter.phone;
+sheet.appendRow([entry,entryName,phone,date]);
+   return ContentService.createTextOutput("Success").setMimeType(ContentService.MimeType.TEXT);
+
+}
+```
+
+Learning Outcome: In above application we can create a functionality with database in which we can enter some detail of person and add it to the database and we can also display that detail into the application fetching from database for the database we use the google sheet and for the backend part we can generate one API using google script.
+
+[practical 10](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR10_17IT009.rar)
+  [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR10.1.JPG)
