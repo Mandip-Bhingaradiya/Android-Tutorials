@@ -140,7 +140,7 @@ sheet.appendRow([entry,entryName,phone,date]);
 }
 ```
 
-Learning Outcome: In above application we can create a functionality with database in which we can enter some detail of person and add it to the database and we can also display that detail into the application fetching from database for the database we use the google sheet and for the backend part we can generate one API using google script.
+Learning Outcome: In above application we can create a functionality with database in which we can enter some detail of person and add it to the database and we can also display that detail into the application fetching from database for the database we use the google sheet and for the backend part we can generate one API using google script.  reference by: http://www.crazycodersclub.com/
 
 [practical 10](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR10_17IT009.rar)
-  [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR10.1.JPG)
+  [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/pr10.1.JPG)
