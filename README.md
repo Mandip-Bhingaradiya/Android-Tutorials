@@ -95,7 +95,8 @@ Create an application with the help of database.
 
 Here, In this as a database we use google sheet for that we devloped one API. Which is devloped in google Script which code is:
 
-```var ss = SpreadsheetApp.openByUrl("Add your google database sheet URL");
+```
+var ss = SpreadsheetApp.openByUrl("Add your google database sheet URL");
 
 var sheet = ss.getSheetByName('Enteries'); match 
 function doPost(e){
