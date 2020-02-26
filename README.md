@@ -155,3 +155,13 @@ Learning Outcome: In above application we can create a functionality for to sign
 
 [practical 11](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR11_17IT009.rar)
   [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR11.3.jpg)
+
+
+## Practical 12
+
+Create an application to handle support voice interaction.
+
+Learning Outcome: In above application we can create a functionality for to sign in into the app using the google sign in authentication for that we configure first google API and then that API is use into the app for to the google sign in here we sign in the app using google and then able to sign out from the app. No need to create the new account for the app and then sign in threw that.       reference by: https://www.youtube.com/watch?v=0bLwXw5aFOs
+
+[practical 12(https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR1217IT009.rar)
+  [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR12.1.jpg)
