@@ -176,3 +176,12 @@ Learning Outcome: In above application we can create a functionality in which we
 
 [practical 13](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR13_17IT009)
   [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR13.1.jpg)
+
+## Practical 14
+
+Create an application that uses end-to-end process of training a machine learning model that can recognize handwritten digit images with TensorFlow and deploy it to an Android app.
+
+Learning Outcome: In above application we can create a functionality in which we need to write the number between 1-9 and our application give you that how much accurately he try understand that whatever you write is which number. For that we develop one ML-model in TensorFlow Lite which can understand human hand writing and deploy it in one application. For that we learn that how train the ML-model in TensorFlow Lite and how to deploy it in android application.
+
+[practical 14](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR14_17IT009)
+  [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR14.1.jpg)
