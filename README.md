@@ -183,5 +183,5 @@ Create an application that uses end-to-end process of training a machine learnin
 
 Learning Outcome: In above application we can create a functionality in which we need to write the number between 1-9 and our application give you that how much accurately he try understand that whatever you write is which number. For that we develop one ML-model in TensorFlow Lite which can understand human hand writing and deploy it in one application. For that we learn that how train the ML-model in TensorFlow Lite and how to deploy it in android application.
 
-[practical 14](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR14_17IT009)
+[practical 14](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR14_17IT009.rar)
   [output](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR14.1.jpg)
