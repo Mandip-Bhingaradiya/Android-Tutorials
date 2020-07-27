@@ -1,4 +1,4 @@
-# Android Tutorials
+# Welcome to Android Tutorials
 Purpose : Learning Only
 
 ## Software Required: Android Studio
@@ -10,7 +10,7 @@ Introduction to Android and Create “Custom Message” application. That will d
 Learning Outcome: We can learn how to change the background color in the application adding color in color.xml and add custom message in the app with black color.  
 
 [Tutorial 1](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR1_17IT009.rar)
-  [App look](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR1.JPG)
+    [App look](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR1.JPG)
 
 ## Tutorial 2
 
@@ -19,7 +19,7 @@ Create an android application to calculate sum of two numbers and gives result i
 Learning Outcome: In above application we can create a functionality in which user can enter two numbers and then click on ADD button it will display sum of that number in toast message for to develop this app we use TextView, EditText, Button and Toast Message functionalities of the android. 
 
 [Tutorial 2](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/Practicals/WCMC_PR2_17IT009.rar)
-  [App look](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR2.JPG)
+    [App look](https://github.com/Mandip17IT009/WCMC_17IT009/blob/master/output/PR2.JPG)
 
 ## Tutorial 3
 
